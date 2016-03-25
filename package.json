@@ -1,0 +1,12 @@
+{
+  "name": "sfotipy",
+  "version": "1.0.0",
+  "description": "Diseño Frontend Responsive parecido, App Musica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" "DEV_SERVER_PORT=4000 DER-SERVER"
+  },
+  "author": "joelengt",
+  "license": "MIT"
+}
